@@ -6,11 +6,32 @@ Self-taught software engineer and **Minecraft Java developer**. Building high-pe
 
 ### core skills
 
-**Languages & Frameworks:**
-`Java` `JavaScript` `Python` `SQL`
+<table>
+  <tr>
+    <td align="center" width="120"><b>Languages</b></td>
+    <td>
+      <img src="https://shields.io" />
+      <img src="https://shields.io" />
+      <img src="https://shields.io" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Databases</b></td>
+    <td>
+      <img src="https://shields.io" />
+      <img src="https://shields.io" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Tools</b></td>
+    <td>
+      <img src="https://shields.io" />
+      <img src="https://shields.io" />
+      <img src="https://shields.io" />
+      <img src="https://shields.io" />
+    </td>
+  </tr>
+</table>
 
-**Minecraft API & Platforms:**
-`Paper` `Spigot` `Velocity` `Purpur` `Velocity API`
-
-**Databases & Tools:**
-`MySQL` `PostgreSQL` `Docker` `Git` `Linux` `Maven` `Gradle` `IntelliJ IDEA`
+* **minecraft api & platforms:** Paper • Spigot • Velocity • Purpur • Velocity API
+* **build tools:** Maven • Gradle
