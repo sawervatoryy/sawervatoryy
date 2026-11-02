@@ -48,5 +48,5 @@ Full infrastructure setup for high-load Minecraft servers and community networks
 ### activity
 
 <p align="center">
-  <img src="https://herokuapp.com" alt="GitHub Streak" height="150" />
+  <b>false</b>
 </p>
