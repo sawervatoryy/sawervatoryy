@@ -1,5 +1,4 @@
 <div align="center">
-  <!-- Картинка-баннер в стиле аниме (когда сделаешь свой баннер, замени эту ссылку на свою) -->
   <img src="https://githubusercontent.com" alt="Sawervatoryy the Coder" width="100%">
 </div>
 
@@ -12,8 +11,7 @@ Self-taught software engineer and **Minecraft Java developer**. Building high-pe
 ### core skills
 
 <p align="left">
-  <!-- Твои иконки: JS, Java, Python + базы данных и инструменты разработки -->
-  <img src="https://skillicons.dev" />
+  <img src="https://skillicons.dev" alt="My Skills" />
 </p>
 
 * **languages:** Java • JavaScript • Python • SQL
