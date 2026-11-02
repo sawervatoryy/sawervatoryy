@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://githubusercontent.com" alt="Sawervatoryy the Coder" width="100%">
-</div>
+![](https://githubusercontent.com)
 
 ### about
 
@@ -10,9 +8,7 @@ Self-taught software engineer and **Minecraft Java developer**. Building high-pe
 
 ### core skills
 
-<p align="left">
-  <img src="https://skillicons.dev" alt="My Skills" />
-</p>
+![](https://skillicons.dev)
 
 * **languages:** Java • JavaScript • Python • SQL
 * **minecraft api & platforms:** Paper • Spigot • Velocity • Purpur • Spigot API
