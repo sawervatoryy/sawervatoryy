@@ -1,5 +1,3 @@
-![](https://githubusercontent.com)
-
 ### about
 
 Self-taught software engineer and **Minecraft Java developer**. Building high-performance server plugins, optimizing JVM/Paper architectures, and fixing deep infrastructure issues.
@@ -8,8 +6,11 @@ Self-taught software engineer and **Minecraft Java developer**. Building high-pe
 
 ### core skills
 
-![](https://skillicons.dev)
+**Languages & Frameworks:**
+`Java` `JavaScript` `Python` `SQL`
 
-* **languages:** Java • JavaScript • Python • SQL
-* **minecraft api & platforms:** Paper • Spigot • Velocity • Purpur • Spigot API
-* **databases & tools:** MySQL • PostgreSQL • Docker • Git • Linux • Maven • Gradle • IntelliJ IDEA
+**Minecraft API & Platforms:**
+`Paper` `Spigot` `Velocity` `Purpur` `Velocity API`
+
+**Databases & Tools:**
+`MySQL` `PostgreSQL` `Docker` `Git` `Linux` `Maven` `Gradle` `IntelliJ IDEA`
