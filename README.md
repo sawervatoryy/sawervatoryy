@@ -1,16 +1,21 @@
-## Hi there 👋
+<div align="center">
+  <!-- Картинка-баннер в стиле аниме (когда сделаешь свой баннер, замени эту ссылку на свою) -->
+  <img src="https://githubusercontent.com" alt="Sawervatoryy the Coder" width="100%">
+</div>
 
-<!--
-**sawervatoryy/sawervatoryy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### about
 
-Here are some ideas to get you started:
+Self-taught software engineer and **Minecraft Java developer**. Building high-performance server plugins, optimizing JVM/Paper architectures, and fixing deep infrastructure issues.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### core skills
+
+<p align="left">
+  <!-- Твои иконки: JS, Java, Python + базы данных и инструменты разработки -->
+  <img src="https://skillicons.dev" />
+</p>
+
+* **languages:** Java • JavaScript • Python • SQL
+* **minecraft api & platforms:** Paper • Spigot • Velocity • Purpur • Spigot API
+* **databases & tools:** MySQL • PostgreSQL • Docker • Git • Linux • Maven • Gradle • IntelliJ IDEA
