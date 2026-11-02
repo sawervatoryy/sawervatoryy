@@ -1,4 +1,4 @@
-![sawervatoryy the coder](banner.gif)
+![sawervatoryy the coder](banners.png)
 
 ### about
 Self-taught software engineer and **Minecraft Java developer**. Specializing in building high-performance server plugins, optimizing JVM/Paper/Velocity architectures, and troubleshooting deep infrastructure issues.
