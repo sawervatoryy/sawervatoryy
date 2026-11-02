@@ -1,26 +1,25 @@
-<p align="center">
-  <img src="https://githubusercontent.com" alt="sawervatoryy the coder" width="100%">
-</p>
+![sawervatoryy the coder](banner.png)
 
 ### about
 Self-taught software engineer and **Minecraft Java developer**. Specializing in building high-performance server plugins, optimizing JVM/Paper/Velocity architectures, and troubleshooting deep infrastructure issues.
 
-🌐 [://github.com](https://://github.com/sawervatoryy) • ✉️ [Message me on Telegram](https://funpay.com)
+🌐 [github.com/sawervatoryy](https://github.com) • ✉️ [t.me/jarEncrypted](https://t.me)
 
 ---
 
 ### core skills
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev" alt="core skills" />
-  </a>
-</p>
+* **languages**
+  `Java` `JavaScript` `Python` `SQL`
 
-- **languages**: Java • JavaScript • Python • SQL
-- **minecraft api & platforms**: Paper • Spigot • Velocity • Purpur • Spigot API • BungeeCord
-- **databases**: MySQL • PostgreSQL • SQLite • Redis
-- **tools & devops**: Docker • Linux • Git • Apache Maven • Gradle • IntelliJ IDEA • Bash
+* **minecraft api & platforms**
+  `Paper` `Spigot` `Velocity` `Purpur` `Spigot API` `BungeeCord`
+
+* **databases**
+  `MySQL` `PostgreSQL` `SQLite` `Redis`
+
+* **tools & devops**
+  `Docker` `Linux` `Git` `Apache Maven` `Gradle` `IntelliJ IDEA` `Bash`
 
 ---
 
