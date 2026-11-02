@@ -1,19 +1,17 @@
 <p align="center">
-  <!-- Твой баннер. Пока ты не загрузил свой banner.png в репозиторий, будет показываться этот временный аниме-арт -->
   <img src="https://githubusercontent.com" alt="sawervatoryy the coder" width="100%">
 </p>
 
 ### about
 Self-taught software engineer and **Minecraft Java developer**. Specializing in building high-performance server plugins, optimizing JVM/Paper/Velocity architectures, and troubleshooting deep infrastructure issues.
 
-🌐 [://github.com](https://://github.com) • ✉️ [Message me on FunPay](https://funpay.com)
+🌐 [://github.com](https://://github.com/sawervatoryy) • ✉️ [Message me on Telegram](https://funpay.com)
 
 ---
 
 ### core skills
 
 <p align="left">
-  <!-- Твои неоновые иконки: JS, Java, Python + базы данных, девопс и инструменты разработки -->
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev" alt="core skills" />
   </a>
@@ -51,6 +49,5 @@ Full infrastructure setup for high-load Minecraft servers and community networks
 ### activity
 
 <p align="center">
-  <!-- Красивый блок статистики коммитов (твоя активность на гитхабе в темном стиле) -->
   <img src="https://herokuapp.com" alt="GitHub Streak" height="150" />
 </p>
