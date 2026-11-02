@@ -3,7 +3,7 @@
 ### about
 Self-taught software engineer and **Minecraft Java developer**. Specializing in building high-performance server plugins, optimizing JVM/Paper/Velocity architectures, and troubleshooting deep infrastructure issues.
 
-🌐 [github.com/sawervatoryy](https://github.com) • ✉️ [t.me/jarEncrypted](https://t.me)
+🌐 [github.com/sawervatoryy](https://github.com/sawervatoryy) • ✉️ [t.me/jarEncrypted](https://t.me/jarEncrypted)
 
 ---
 
